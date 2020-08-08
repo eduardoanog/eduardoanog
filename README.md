@@ -5,6 +5,6 @@ My name is Eduardo de Andrade Nogueira, I have a master's degree and a degree in
 
 <a href = "https://www.linkedin.com/in/eduardoandnogueira/"><img src="https://media.glassdoor.com/sqll/34865/linkedin-squarelogo-1559685522766.png" width=20 height=20></a> - Take a Look on my Linkedin
 
-[:page_with_curl:](http://github.com) - Curriculum Vitae in Portuguese
+[:page_with_curl:](https://github.com/eduardoanog/eduardoanog/blob/master/CurriculumVitae/CV_PT-BR.pdf) - Curriculum Vitae in Portuguese
 
-[:bookmark_tabs:](http://github.com) - Curriculum Vitae in English
+[:bookmark_tabs:](https://github.com/eduardoanog/eduardoanog/blob/master/CurriculumVitae/CV_US-EN.pdf) - Curriculum Vitae in English
