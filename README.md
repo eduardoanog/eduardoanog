@@ -9,3 +9,6 @@
 👨🏻‍💻 Additionally, as a teaching intern, I contributed significantly to students' understanding of artificial neural networks and electrical machines, refining my ability to communicate complex concepts clearly.
 
 🥾 When not immersed in the world of data, you can find me pursuing my two passions: hiking and photography.📸
+
+[📜 Curriculum Vitae](CurriculumVitae/cv_eduardo_de_andrade_nogueira.pdf)
+
